@@ -27,8 +27,8 @@ export const CONFIG = {
   REEL_STRIP: 30,
   SPIN_SPEED: 38,
   SPINE: {
-    PATH: "/spine/spineboy-pro.json",
-    ATLAS: "/spine/spineboy-pma.atlas",
+    PATH: "./spine/spineboy-pro.json",
+    ATLAS: "./spine/spineboy-pma.atlas",
     SCALE: 0.3,
     X: 720,
     Y: 420,
